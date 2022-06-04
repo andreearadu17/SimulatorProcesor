@@ -1,0 +1,45 @@
+D:\AN 3C\SEM II\ASC\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.exe
+D:\AN 3C\SEM II\ASC\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.deps.json
+D:\AN 3C\SEM II\ASC\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.runtimeconfig.json
+D:\AN 3C\SEM II\ASC\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.runtimeconfig.dev.json
+D:\AN 3C\SEM II\ASC\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.dll
+D:\AN 3C\SEM II\ASC\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.pdb
+D:\AN 3C\SEM II\ASC\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.csprojAssemblyReference.cache
+D:\AN 3C\SEM II\ASC\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.Form1.resources
+D:\AN 3C\SEM II\ASC\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.csproj.GenerateResource.cache
+D:\AN 3C\SEM II\ASC\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.AssemblyInfoInputs.cache
+D:\AN 3C\SEM II\ASC\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.AssemblyInfo.cs
+D:\AN 3C\SEM II\ASC\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.csproj.CoreCompileInputs.cache
+D:\AN 3C\SEM II\ASC\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.dll
+D:\AN 3C\SEM II\ASC\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.pdb
+D:\AN 3C\SEM II\ASC\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.genruntimeconfig.cache
+D:\An_3\Semestrul2\Proiect_C\proiectAsamblor\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.exe
+D:\An_3\Semestrul2\Proiect_C\proiectAsamblor\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.deps.json
+D:\An_3\Semestrul2\Proiect_C\proiectAsamblor\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.runtimeconfig.json
+D:\An_3\Semestrul2\Proiect_C\proiectAsamblor\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.runtimeconfig.dev.json
+D:\An_3\Semestrul2\Proiect_C\proiectAsamblor\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.dll
+D:\An_3\Semestrul2\Proiect_C\proiectAsamblor\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.pdb
+D:\An_3\Semestrul2\Proiect_C\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.csprojAssemblyReference.cache
+D:\An_3\Semestrul2\Proiect_C\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.Form1.resources
+D:\An_3\Semestrul2\Proiect_C\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.csproj.GenerateResource.cache
+D:\An_3\Semestrul2\Proiect_C\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.AssemblyInfoInputs.cache
+D:\An_3\Semestrul2\Proiect_C\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.AssemblyInfo.cs
+D:\An_3\Semestrul2\Proiect_C\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.csproj.CoreCompileInputs.cache
+D:\An_3\Semestrul2\Proiect_C\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.dll
+D:\An_3\Semestrul2\Proiect_C\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.pdb
+D:\An_3\Semestrul2\Proiect_C\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.genruntimeconfig.cache
+C:\Users\Denisa\Documents\GitHub\proiectAsamblor\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.exe
+C:\Users\Denisa\Documents\GitHub\proiectAsamblor\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.deps.json
+C:\Users\Denisa\Documents\GitHub\proiectAsamblor\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.runtimeconfig.json
+C:\Users\Denisa\Documents\GitHub\proiectAsamblor\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.runtimeconfig.dev.json
+C:\Users\Denisa\Documents\GitHub\proiectAsamblor\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.dll
+C:\Users\Denisa\Documents\GitHub\proiectAsamblor\prAsamblor\prAsamblor\bin\Debug\netcoreapp3.1\prAsamblor.pdb
+C:\Users\Denisa\Documents\GitHub\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.csprojAssemblyReference.cache
+C:\Users\Denisa\Documents\GitHub\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.Form1.resources
+C:\Users\Denisa\Documents\GitHub\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.csproj.GenerateResource.cache
+C:\Users\Denisa\Documents\GitHub\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.AssemblyInfoInputs.cache
+C:\Users\Denisa\Documents\GitHub\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.AssemblyInfo.cs
+C:\Users\Denisa\Documents\GitHub\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.csproj.CoreCompileInputs.cache
+C:\Users\Denisa\Documents\GitHub\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.dll
+C:\Users\Denisa\Documents\GitHub\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.pdb
+C:\Users\Denisa\Documents\GitHub\proiectAsamblor\prAsamblor\prAsamblor\obj\Debug\netcoreapp3.1\prAsamblor.genruntimeconfig.cache
